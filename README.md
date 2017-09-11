@@ -1,2 +1,2 @@
 # ResourceFile
-Resource file placement
+Resource file placement - GuoY
